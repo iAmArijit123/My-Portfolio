@@ -3,7 +3,7 @@ import { motion } from "framer-motion";
 
 const educationItems = [
   {
-    title: "Madhyamik",
+    title: "Secondary Education",
     institution: "Bakhrabad Bharati Vidhyapith",
     year: "2018-2019",
     description:
