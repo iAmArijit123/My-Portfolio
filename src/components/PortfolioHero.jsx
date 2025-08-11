@@ -42,7 +42,7 @@ const PortfolioHero = () => {
             }}
           >
             <img
-              src="https://scontent.fblr4-5.fna.fbcdn.net/v/t39.30808-6/510191166_1274892844244608_2998738913099484454_n.jpg?stp=c0.137.1634.1634a_dst-jpg_s206x206_tt6&_nc_cat=103&ccb=1-7&_nc_sid=714c7a&_nc_ohc=Po0RwdIfl60Q7kNvwE5GvTQ&_nc_oc=AdnzVCpeXCbGZwsMk9bcXiBhVgcqPoDxpCz0nzzLFvfYpT5fA048qJSLMMooZ4Za-vTjzh56j8M4YkTPc7yWUXf9&_nc_zt=23&_nc_ht=scontent.fblr4-5.fna&_nc_gid=6UiXXdPy7-DE5CMzWtOy_w&oh=00_AfW-Tc5mNTF8OD8sBft-e0O9-uu7UBupB8FynlkcHlRU6A&oe=68980C2A"
+              src="https://scontent.fblr4-3.fna.fbcdn.net/v/t39.30808-6/502584410_1256770022723557_5957288409949421729_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_ohc=6xDz7gAziNAQ7kNvwGSrjYI&_nc_oc=Adk1y5xU0Z_XIh6hsnqge7WZMbkggSZr0LDOyef6fe_oW7Om42upNsMDe7SYLv-rSDXndLMjzEVEIA8IPLsfmU_F&_nc_zt=23&_nc_ht=scontent.fblr4-3.fna&_nc_gid=t1N50I6ku-OvvRpc6HHwtw&oh=00_AfUPX8th1GyE_9VCoaFsDwE7E7Chw_KNuejt-_PA0QYQkw&oe=689FF91D"
               alt="Arijit Sasmal"
               className="rounded-full w-full h-full object-cover"
               onError={(e) => {
